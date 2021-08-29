@@ -4,7 +4,6 @@ This is a repo for the freetalk.fun MVP webapp. It will be built on the MERN sta
 <br> It is a media/blog app designed specifically for non-native English learners.
 <br>The repo was made public, but is intended to share with friends and people I know in real life.
 <br>If you're a stragner that sees this and loves it, you can reach me at: erondpowell@gmail.com
-<br>I'm learnign programming while building this, so please contribute any code that looks ghetto.
 <br>Once the app is deployed to freetalk.fun, this repo will be made private.
 
 **Key Features:**
