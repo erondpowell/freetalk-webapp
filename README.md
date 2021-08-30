@@ -11,7 +11,7 @@ This is a repo for the freetalk.fun MVP webapp. It will be built on the MERN sta
  - **An ESL Dictionary** which delivers a basic google translation, then a long-version immersion English explanation. 
      <br>Initial explanations will come from a dictionary API like wiktionary, oxford, or wordsAPI (tbd) and get replaced by UGC definitions.
      <br>The dictionary will be available on a dedicated page, as a side-bar widget on blog posts, and a Chrome plugin for all websites.
-     <br>Read about it in detail below at Resources>Freetalk Dictionary.
+     <br>Read about it in detail below under Resources.
  - **Flashcards** which allow users to create 'decks' of flashcards.
      Cards can be created from-scratch.
      Cards can be created directly from dictionary entries.
