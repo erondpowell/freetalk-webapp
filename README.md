@@ -1,7 +1,7 @@
 # freetalk-webapp
 
 This is a repo for the freetalk.fun MVP webapp. It will be built on the MERN stack with next.js for SEO.
-<br> It is a media/blog app designed specifically for non-native English learners.
+<br>It is a media/blog app designed specifically for non-native English learners.
 <br>The repo was made public, but is intended to share with friends and people I know in real life.
 <br>If you're a stragner that sees this and loves it, you can reach me at: erondpowell@gmail.com
 <br>Once the app is deployed to freetalk.fun, this repo will be made private.
@@ -22,8 +22,10 @@ This will serve as the MVP blog/learning app features.
 
 **Resources:**
 <br>Business Plan - https://drive.google.com/file/d/1OUC515TvXmN8oS2yOLFlZVnmCdv3N9Ig/view?usp=sharing
-<br>UX + Wireframes - https://drive.google.com/drive/folders/1XbvWIEbfM6p3xN0Zzqyb4ZaDnkMUZuOX?usp=sharing
-<br>Tech Stack Overview - (coming soon)
-<br>Freetalk Dictionary Docs - (coming soon)
-<br>Blog Post Docs - (coming soon)
-<br>Flashcard Docs - (coming soon)
+<br>UX Basics - https://drive.google.com/drive/folders/1XbvWIEbfM6p3xN0Zzqyb4ZaDnkMUZuOX?usp=sharing
+<br>Lo-Fi Wireframes - (working) - https://xd.adobe.com/view/0ae3499a-46ad-4fc1-bd3b-45ba6c59cd74-5fb0/?fullscreen
+<br>hifi Wireframe  -  (just started) - https://xd.adobe.com/view/a5ec4663-5563-4f69-90ae-58b4ece66549-f0bf/?fullscreen
+<br>Tech Stack Overview - (just started) - https://freetalk.atlassian.net/wiki/spaces/FMWAR/pages/51413265/Tech+Stack+Design+Logic
+<br>Freetalk Dictionary Docs - (coming soon) 
+<br>Blog Post Docs - (coming soon) 
+<br>Flashcard Docs - (coming soon) 
