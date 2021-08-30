@@ -29,6 +29,7 @@ This will serve as the MVP blog/learning app features.
 <br>Freetalk Dictionary Docs - (coming soon) 
 <br>Blog Post Docs - (coming soon) 
 <br>Flashcard Docs - (coming soon) 
+<br>Demo Course - (to get an idea of the content offered) - https://www.udemy.com/course/learn-english-faster-how-to-make-a-plan/?referralCode=4E68EE654F252BD53D56
 
 
 
