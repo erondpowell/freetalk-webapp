@@ -41,7 +41,6 @@ This will serve as the MVP blog/learning app features.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
->>>>>>> b73c53e6cbc56c2c04879a36cf310d2df073c68f
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
