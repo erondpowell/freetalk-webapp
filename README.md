@@ -11,7 +11,7 @@ This is a repo for the freetalk.fun MVP webapp. It will be built on the MERN sta
  - **An ESL Dictionary** which delivers a basic google translation, then a long-version immersion English explanation. 
      <br>Initial explanations will come from a dictionary API like wiktionary, oxford, or wordsAPI (tbd) and get replaced by UGC definitions.
      <br>The dictionary will be available on a dedicated page, as a side-bar widget on blog posts, and a Chrome plugin for all websites.
-     <br>Read about it in detail below at Resources>Freetalk Dictionary.
+     <br>Read about it in detail below under Resources.
  - **Flashcards** which allow users to create 'decks' of flashcards.
      Cards can be created from-scratch.
      Cards can be created directly from dictionary entries.
@@ -29,9 +29,19 @@ This will serve as the MVP blog/learning app features.
 <br>Freetalk Dictionary Docs - (coming soon) 
 <br>Blog Post Docs - (coming soon) 
 <br>Flashcard Docs - (coming soon) 
+<<<<<<< HEAD
 
 
 
+=======
+<br>Demo Course - (to get an idea of the content offered) - https://www.udemy.com/course/learn-english-faster-how-to-make-a-plan/?referralCode=4E68EE654F252BD53D56
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+>>>>>>> b73c53e6cbc56c2c04879a36cf310d2df073c68f
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -102,3 +112,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+
+>>>>>>> b73c53e6cbc56c2c04879a36cf310d2df073c68f
