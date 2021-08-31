@@ -1,1 +1,2 @@
-// Add in <LeftLogo/>, <AffiliateMarketing/>, <SiteMap/>, <SocialLinks/>, <CTAs/>
+// From Footer <AffiliateMarketing/>, <SiteMap/>,
+// From Utilities <Logo/> <SocialLinks/>, <HardCTA/>, <SoftCTA/>
